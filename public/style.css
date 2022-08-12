@@ -1,0 +1,106 @@
+body{
+    font-family: Lexend Deca, Arial, Helvetica, sans-serif;
+}
+
+/* Top page (noythin to do here)*/ 
+.gradient{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(-120deg, #85c6ff, #4a41be);
+    color: white;
+    font-size: 5vh;
+    text-align: center;
+    padding-top: 15%;
+}
+.info{
+    padding-top: 1px;
+    height: 6vh;
+    width: 100%;
+    background-color: rgb(14, 13, 13);
+    color: white;
+    font-size: 12px;
+    text-align: center;
+}
+
+/* main section */
+.downloads{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(-120deg, #72a9e0, #b7b7f8);
+    color: rgb(0, 0, 0);
+    font-size: 5vh;
+    text-align: left;
+    padding-left: 10%;
+}
+
+.button-download{
+    margin-left: 17em;
+    border-radius: 50px;
+    background: linear-gradient(-120deg, #d5dee7, #c6d5db);
+    border: 6px solid rgb(169, 168, 230);
+    font-family: Lexend Deca, Arial, Helvetica, sans-serif ;
+    font-size: 4vh;
+    padding: 30 50 30 50;
+}
+.button-download:hover{
+    margin-left: 17em;
+    border-radius: 50px;
+    background: linear-gradient(-120deg, #6f9fcf, #7584c7);
+    border: 6px solid rgb(169, 168, 230);
+    font-family: Lexend Deca, Arial, Helvetica, sans-serif ;
+    font-size: 4vh;
+    padding: 30 50 30 50;
+}
+
+/* Download Page 1*/
+.downloads-main-page-1{
+    height: 100vh;
+    width: 100%;
+    background: linear-gradient(-120deg, #81aae9, #bbbbff);
+    color: rgb(0, 0, 0);
+    font-size: 5vh;
+    text-align: left;
+    padding-left: 10%;
+}
+/* Download Page 2*/
+.downloads-main-page-2{
+    height: 140vh;
+    width: 100%;
+    background: linear-gradient(-120deg, #81aae9, #bbbbff);
+    color: rgb(0, 0, 0);
+    font-size: 5vh;
+    text-align: left;
+    padding-left: 10%;
+}
+/* Download Page 3*/
+.downloads-main-page-3{
+    height: 120vh;
+    width: 100%;
+    background: linear-gradient(-120deg, #81aae9, #bbbbff);
+    color: rgb(0, 0, 0);
+    font-size: 5vh;
+    text-align: left;
+    padding-left: 10%;
+}
+
+/* Common to all download */
+.button-download-main{
+    margin-left: 10em;
+    border-radius: 50px;
+    background: linear-gradient(-120deg, #d5dee7, #c6d5db);
+    border: 6px solid rgb(169, 168, 230);
+    font-family: Lexend Deca, Arial, Helvetica, sans-serif ;
+    font-size: 4vh;
+    padding: 30 50 30 50;
+}
+.button-download-main:hover{
+    margin-left: 10em;
+    border-radius: 50px;
+    background: linear-gradient(-120deg, #6f9fcf, #7584c7);
+    border: 6px solid rgb(169, 168, 230);
+    font-family: Lexend Deca, Arial, Helvetica, sans-serif ;
+    font-size: 4vh;
+    padding: 30 50 30 50;
+}
+
+
